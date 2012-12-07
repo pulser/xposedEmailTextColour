@@ -1,0 +1,6 @@
+    <resources>
+        <color name="message_list_read_text_sub_text_dark_color_dark_theme">#ffacacac</color>
+        <color name="message_list_read_text_main_text_dark_color_dark_theme">#ffacacac</color>
+        <color name="message_list_read_text_date_dark_color_dark_theme">#ffacacac</color>
+        <color name="message_list_read_text_snippet_dark_color_dark_theme">#ffacacac</color>
+    </resources>
